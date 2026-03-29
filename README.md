@@ -13,3 +13,5 @@ This is my personal CV / portfolio website built with HTML & CSS.
 ## Technologies Used
 - HTML5
 - CSS3
+  
+https://roadmap.sh/projects/single-page-cv
